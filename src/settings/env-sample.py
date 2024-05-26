@@ -1,4 +1,4 @@
-from .base import *
+from .base import * # noqa
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = "<generated_secret_key>"
